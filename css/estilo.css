@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(194, 149, 26);
+}
+#form {
+    height:60px;
+    width: 80%;
+    background-color: rgb(107, 71, 47);
+    margin-top: 5px;
+
+}
+
+#footer {
+    margin-top: 20%;
+}
